@@ -1,1 +1,52 @@
 /*  your css code here. If applicable */
+.hero{
+	display: flex;
+	justify-content: flex-start;
+	align-items: baseline;
+	align-content:space-evenly;
+	flex-direction: row;
+	width: auto;
+	
+}
+h1{
+	display:block;
+	padding:5px;
+	font-style: italic;
+	font-size:25px;
+	align-items: space-evenly;
+	text-align:center;
+	margin:auto;
+	margin-bottom: 
+	
+	
+}
+p{
+	float: left;
+	padding:10px;
+	font-size: 12px;
+	text-align:center;
+	margin:auto;
+	margin-bottom: 10px
+	
+
+	
+	
+}
+
+img{
+	width:400px;
+	height:200px;
+	object-fit: cover;
+}
+a{
+	background-color: indianred;
+	color: black;
+	border: 1px solid gray;
+	margin: auto;
+	margin-top: 150px;
+	width: 100px;
+	height: 40px;
+	text-align:center;
+	
+	
+}
